@@ -1,0 +1,24 @@
+{
+  "name": "api-watson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.11.3"
+  },
+  "author": "Marco Guilherme B. Martins",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "consign": "0.1.6",
+    "dotenv": "6.1.0",
+    "express": "4.16.3",
+    "helmet": "3.14.0",
+    "morgan": "1.9.1",
+    "npm": "6.4.1"
+  }
+}
